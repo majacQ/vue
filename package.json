@@ -16,11 +16,14 @@
   <<<<<<< snyk-fix-7c443918d7f3a4ef1efaac75fc2745fc
     "@vue/cli-plugin-babel": "^4.5.9",
     "@vue/cli-plugin-eslint": "^4.5.8",
+  <<<<<<< snyk-fix-68a9e30b3898dc9b87d058112e8b9e8a
+  =======
   <<<<<<< snyk-fix-5ed21f8ae49e17fd9a3bf9f103303bde
   =======
   =======
     "@vue/cli-plugin-babel": "^5.0.0",
     "@vue/cli-plugin-eslint": "^5.0.0",
+  >>>>>>> master
   >>>>>>> master
   >>>>>>> master
     "@vue/cli-service": "^5.0.1",
