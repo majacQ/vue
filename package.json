@@ -9,12 +9,20 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "core-js": "3.10.0",
+    "core-js": "3.10.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
+  <<<<<<< snyk-fix-7c443918d7f3a4ef1efaac75fc2745fc
     "@vue/cli-plugin-babel": "^4.5.9",
     "@vue/cli-plugin-eslint": "^4.5.8",
+  <<<<<<< snyk-fix-5ed21f8ae49e17fd9a3bf9f103303bde
+  =======
+  =======
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+  >>>>>>> master
+  >>>>>>> master
     "@vue/cli-service": "^5.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.14.0",
