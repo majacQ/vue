@@ -9,16 +9,50 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "core-js": "^2.6.5",
+  <<<<<<< snyk-upgrade-c488ebb63b3b70b0bfd18c507f58273e
+    "core-js": "3.9.1",
+  =======
+    "core-js": "3.10.1",
+  >>>>>>> circleci-project-setup
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
-    "@vue/cli-plugin-eslint": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+  <<<<<<< snyk-fix-7c443918d7f3a4ef1efaac75fc2745fc
+    "@vue/cli-plugin-babel": "^4.5.9",
+  <<<<<<< snyk-fix-9b4bc628ddb9ec8442c6b77f7300b805
+    "@vue/cli-plugin-eslint": "^5.0.0",
+  =======
+  <<<<<<< snyk-fix-75d866853f234abd8c0257f80712b131
+    "@vue/cli-plugin-eslint": "^5.0.0",
+  =======
+    "@vue/cli-plugin-eslint": "^4.5.8",
+  <<<<<<< snyk-fix-e91fa84ca5ba9c72305de619de2681f4
+  =======
+  <<<<<<< snyk-fix-d62bfc871717c5746971a2c2af6fbe49
+  =======
+  <<<<<<< snyk-fix-68a9e30b3898dc9b87d058112e8b9e8a
+  =======
+  <<<<<<< snyk-fix-5ed21f8ae49e17fd9a3bf9f103303bde
+  =======
+  =======
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
+  >>>>>>> master
+    "@vue/cli-service": "^5.0.1",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
+  <<<<<<< depfu/update/npm/eslint-7.13.0
+    "eslint": "^7.13.0",
     "eslint-plugin-vue": "^5.0.0",
+  =======
+    "eslint": "^7.14.0",
+    "eslint-plugin-vue": "^7.4.1",
+  >>>>>>> circleci-project-setup
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
