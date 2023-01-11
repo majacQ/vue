@@ -15,6 +15,9 @@
   "devDependencies": {
   <<<<<<< snyk-fix-7c443918d7f3a4ef1efaac75fc2745fc
     "@vue/cli-plugin-babel": "^4.5.9",
+  <<<<<<< snyk-fix-9b4bc628ddb9ec8442c6b77f7300b805
+    "@vue/cli-plugin-eslint": "^5.0.0",
+  =======
   <<<<<<< snyk-fix-75d866853f234abd8c0257f80712b131
     "@vue/cli-plugin-eslint": "^5.0.0",
   =======
@@ -30,6 +33,7 @@
   =======
     "@vue/cli-plugin-babel": "^5.0.0",
     "@vue/cli-plugin-eslint": "^5.0.0",
+  >>>>>>> master
   >>>>>>> master
   >>>>>>> master
   >>>>>>> master
