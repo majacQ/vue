@@ -19,6 +19,8 @@
     "@vue/cli-plugin-eslint": "^5.0.0",
   =======
     "@vue/cli-plugin-eslint": "^4.5.8",
+  <<<<<<< snyk-fix-d62bfc871717c5746971a2c2af6fbe49
+  =======
   <<<<<<< snyk-fix-68a9e30b3898dc9b87d058112e8b9e8a
   =======
   <<<<<<< snyk-fix-5ed21f8ae49e17fd9a3bf9f103303bde
@@ -26,6 +28,7 @@
   =======
     "@vue/cli-plugin-babel": "^5.0.0",
     "@vue/cli-plugin-eslint": "^5.0.0",
+  >>>>>>> master
   >>>>>>> master
   >>>>>>> master
   >>>>>>> master
